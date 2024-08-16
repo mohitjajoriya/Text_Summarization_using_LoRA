@@ -1,0 +1,6 @@
+transformers 
+datasets 
+evaluate 
+transformers[torch]
+py7zr
+peft
